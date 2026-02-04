@@ -1,6 +1,6 @@
 packages:
-  - 'packages/*'
-  - 'src/*'
+  - "packages/*"
+  - "src/*"
 
 ignoredBuiltDependencies:
   - sharp
