@@ -94,6 +94,7 @@ A modern, responsive marketing website for an educational coaching institute bui
     bun dev
 
 ### 📁 Project Structure
+```
 brightminds-academy/
 ├── app/
 │   ├── globals.css          # Global styles & Tailwind v4 theme
@@ -142,4 +143,4 @@ brightminds-academy/
 ├── next.config.js
 ├── postcss.config.mjs
 └── jsconfig.json
-
+```
